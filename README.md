@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋, soy Andrés Felipe González Chantre</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elbeyonder&label= Perfil%20views&color=0e75b6&style=flat" alt="elbeyonder" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo" ><img src="https://github-profile-trophy.vercel.app/?username=elbeyonder" alt="elbeyonder" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Jeloda 2.0](www.jeloda.com)
+- 🔭 Actualmente estoy trabajando en [Jeloda 3.0](www.jeloda.com)
 
 - 🌱 Actualmente estoy aprendiendo **ia**
 
-- 👯 Busco colaborar en [Workplay](www.workplay.com.co)
+- 👯 Busco colaborar en [Khronotik](khronotik.com)
 
 - 💬 Pregúntame sobre **Jeloda ,o OnderSoft**
 
