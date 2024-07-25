@@ -13,8 +13,12 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://fb.com/100009139526236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="100009139526236" height="30" width="40" /></a>
-<a href="https://instagram.com/andresfelipechantre17 " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="andresfelipechantre17" height="30" width="40" /></a>
+<a href="https://fb.com/100009139526236" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="100009139526236" height="30" width="40" />
+</a>
+<a href="https://instagram.com/stylebeyonder" target="en blanco">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="andresfelipechantre17" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
