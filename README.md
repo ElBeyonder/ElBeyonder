@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Andrés Felipe González Chantre</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo" ><img src="https://github-profile-trophy.vercel.app/?username=elbeyonder" alt="elbeyonder" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Jeloda 3.0](www.jeloda.com)
+- 🔭 Actualmente estoy trabajando en [Jeloda 4.0](www.jeloda.com)
 
 - 🌱 Actualmente estoy aprendiendo **ia**
 
