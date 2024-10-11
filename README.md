@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Andrés Felipe González Chantre</h1>
+<h1 align="center">Hola 👋, soy Andrés Felipe Chantre</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo" ><img src="https://github-profile-trophy.vercel.app/?username=elbeyonder" alt="elbeyonder" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Jeloda 4.0](www.jeloda.com)
@@ -7,7 +7,7 @@
 
 - 👯 Busco colaborar en [Khronotik](khronotik.com)
 
-- 💬 Pregúntame sobre **Jeloda ,o OnderSoft**
+- 💬 Pregúntame sobre **Jeloda , OnderSoft, Khronotik, o Quilichao Digital**
 
 - 📫 Cómo contactarme **andreschantre17@gmail.com**
 
