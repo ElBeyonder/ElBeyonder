@@ -65,7 +65,7 @@ Apasionado por crear soluciones empresariales que marcan la diferencia. Liderand
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ElBeyonder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
 <!-- GitHub Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com/?user=ElBeyonder&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ElBeyonder&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
 
 </div>
 
