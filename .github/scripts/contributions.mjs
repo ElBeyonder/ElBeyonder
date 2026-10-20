@@ -1,5 +1,5 @@
 // Genera assets/contributions.svg con el calendario de contribuciones al estilo GitHub (modo oscuro).
-import { writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
 
 const user = process.env.GH_USER;
 const token = process.env.GITHUB_TOKEN;
@@ -70,5 +70,6 @@ if (process.env.GITHUB_ACTIONS) {
   const json = await res.json();
   const calendar = json.data?.user?.contributionsCollection?.contributionCalendar;
   if (!calendar) throw new Error(`Respuesta inesperada: ${JSON.stringify(json)}`);
+  mkdirSync("assets", { recursive: true });
   writeFileSync("assets/contributions.svg", render(calendar));
 }

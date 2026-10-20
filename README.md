@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Contribuciones -->
-<img src="https://ghchart.rshah.org/00D9FF/ElBeyonder" alt="Contribuciones de ElBeyonder" width="95%"/>
+<img src="assets/contributions.svg" alt="Contribuciones de ElBeyonder" width="95%"/>
 
 <br/><br/>
 
@@ -23,9 +23,20 @@
 
 ## 👨‍💻 Sobre mí
 
+<table>
+<tr>
+<td width="150" align="center">
+<a href="https://www.jeloda.com"><img src="https://www.jeloda.com/assets/images/logo-jeloda-256.webp" alt="Jeloda" width="130"/></a>
+</td>
+<td>
+
 Soy **Andrés Chantre**, fundador y CEO de [Ondersoft](https://ondersoft.com.co) 🇨🇴. Lidero **Jeloda**, la plataforma de facturación electrónica en la nube que usan más de **400 empresas** en Latinoamérica.
 
 Me gusta transformar la gestión empresarial a través de la tecnología.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,17 +45,6 @@ Me gusta transformar la gestión empresarial a través de la tecnología.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,typescript,php,python,nodejs,react,vue,mysql,postgres,mongodb,aws,docker,git" alt="Stack"/>
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ElBeyonder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElBeyonder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6"/>
 
 </div>
 
